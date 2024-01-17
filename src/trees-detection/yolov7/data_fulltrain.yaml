@@ -1,0 +1,5 @@
+train: full_train/images
+val: test/images
+
+nc: 1
+names: ['tree']

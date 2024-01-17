@@ -1,0 +1,1 @@
+- `batch_size=4` and mixed precision $\Rarr$ $27$ GB RAM and $16$ GB GPU
